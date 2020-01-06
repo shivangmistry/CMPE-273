@@ -1,0 +1,8 @@
+.coursedesc{
+    vertical-align: top;
+}
+
+.coursecolumn > a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.753);
+}

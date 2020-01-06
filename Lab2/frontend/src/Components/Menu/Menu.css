@@ -1,0 +1,22 @@
+.menu{
+    border-right: 2px solid rgb(235, 235, 235);
+    height: 80vh;
+}
+
+.menuul{
+    padding-left: 0;
+}
+
+.menu li{
+    font-family: 'Ubuntu', sans-serif;
+    list-style-type: none;
+    color: rgb(0, 0, 0); 
+}
+
+.btn-light{
+    width: 90%;
+    text-align: left;
+    margin-top: 2px;
+    padding-left: 20px;
+    font-size: 1.2em;
+}

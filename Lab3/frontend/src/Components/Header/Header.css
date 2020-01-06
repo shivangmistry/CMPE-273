@@ -1,0 +1,14 @@
+.pageheader{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.712);
+    padding: 0;
+    height: 70px;
+    border-bottom: 2px solid rgb(235, 235, 235);
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.pagetitle{
+    margin: 0;
+    padding: 5px;
+}

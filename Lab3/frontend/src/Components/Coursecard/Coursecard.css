@@ -1,0 +1,24 @@
+.searchcards{
+    width: 220px;
+    height: 240px;
+    margin: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+.searchcards > a{
+    text-decoration: none;
+}
+
+.cardtemp{
+    width: 220px;
+    height: 125px;
+}
+
+.cardlink{
+    color: rgba(0, 0, 0, 0.863);
+}
+
+.term{
+    color:grey;
+}

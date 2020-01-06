@@ -1,0 +1,51 @@
+.titlespan{
+    color:rgb(57, 57, 214);
+}
+
+.login{
+  text-align: center;
+  border: 1.5px rgb(185, 185, 185) solid;
+  margin:50px auto;
+  padding: 0 10px;
+  width: fit-content;
+  background-color: white;
+}
+
+.logodiv{
+    border-bottom: 1px solid rgb(185, 185, 185);
+}
+
+.loginform{
+    padding: 20px;
+}
+
+.loginlogo{
+  margin: 15px 20px;
+  padding: 0 20px;
+  height: 80px;
+  width: 280px;
+}
+
+.login input[type="submit"]{
+    margin:5px;
+    padding: 5px;
+    width: 100%;
+}
+
+.login input[type="text"]{
+    margin:5px;
+    padding: 1px;
+    width: 100%;
+}
+
+.login input[type="email"]{
+    margin:5px;
+    padding: 1px;
+    width: 100%;
+}
+
+.login input[type="password"]{
+    margin:5px;
+    padding: 1px;
+    width: 100%;
+}

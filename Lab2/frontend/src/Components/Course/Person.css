@@ -1,0 +1,33 @@
+.persontab{
+    padding: 5px 0px;
+    border-bottom: 1px solid rgb(216, 216, 216);
+    /* border-top: 1px solid rgb(216, 216, 216); */
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.imagecol{
+    text-align: center;
+}
+
+.namecol{
+    margin:auto 0;
+}
+
+.namecol > a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.statcol{
+    margin:auto 0;
+}
+
+.statcol form button{
+    width: 100%;
+}
+
+.personimage{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}

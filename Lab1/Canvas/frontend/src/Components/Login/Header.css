@@ -1,0 +1,12 @@
+.loginheader{
+    margin: 0;
+    text-align: center;
+    background-color: white;
+    padding:13px 0 0 0;
+    color:rgb(122, 122, 122);
+}
+
+.loginheadersub{
+    padding:0 0 20px 0;
+    border-bottom: 2px solid rgb(200, 200, 200);
+}

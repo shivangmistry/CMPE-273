@@ -1,0 +1,16 @@
+.quizgradetable tr{
+    border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+.quizgradetable1{
+    width: 100px;
+}
+.quizgradetable2{
+    width: 300px;
+}
+.quizgradetable3{
+    width: 300px;
+}
+.quizgradetable4{
+    width: 100px;
+}

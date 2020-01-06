@@ -1,0 +1,23 @@
+.allanns{
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding:10px;
+}
+
+.allanns > a {
+    text-decoration: none;
+}
+
+.anntitle{
+    font-weight: 500;
+}
+
+.anntime{
+    float: right;
+    font-weight: 500;
+}
+
+.annfield{
+    vertical-align: top;
+}
